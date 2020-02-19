@@ -5,6 +5,8 @@ Ankush Chauhan- 17110018
 ------
 
 > Write the answers for the subjective questions here
+
+
 Gradient descent
 
                 Vectorised 0.4396636486053467
